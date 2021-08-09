@@ -15,4 +15,6 @@ hello sufen!
 
 hot-fix version~
 
-merge~~
+merge~
++hot-fix~
+merge-completed~
